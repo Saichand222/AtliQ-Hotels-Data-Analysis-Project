@@ -55,7 +55,7 @@ Setup Instructions
 1. Clone the repository
 
 bash
-git clone https://github.com/yourusername/atliq-hotels-data-analysis.git
+git clone https://github.com/Saichand222/atliq-hotels-data-analysis.git
 cd atliq-hotels-data-analysis
 
 2. Install dependencies
